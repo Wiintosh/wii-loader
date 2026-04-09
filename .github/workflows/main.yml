@@ -33,3 +33,11 @@ jobs:
       with:
         name: Artifacts
         path: armboot.bin
+
+    - name: Upload to Releases
+      uses: svenstaro/upload-release-action@v2
+      with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
+        file: armboot.bin
+        tag: ${{ github.ref }}
+        overwrite: true
