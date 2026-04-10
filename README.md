@@ -1,9 +1,9 @@
 wii-loader
 ================
 
-[![Build Status](https://github.com/WiiIntosh/wii-loader/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/WiiIntosh/wii-loader/actions)
+[![Build Status](https://github.com/Wiintosh/wii-loader/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Wiintosh/wii-loader/actions)
 
-Fork of MINI for loading OpenBIOS on the Wii as part of [WiiIntosh](https://github.com/WiiIntosh).
+Fork of MINI for loading OpenBIOS on the Wii as part of [Wiintosh](https://github.com/Wiintosh).
 
 MINI -- Mini Is Not IOS
 Copyright (c) 2008, 2009 Team Twiizers
